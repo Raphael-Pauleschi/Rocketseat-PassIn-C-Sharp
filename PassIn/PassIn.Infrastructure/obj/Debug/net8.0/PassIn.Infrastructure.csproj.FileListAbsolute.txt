@@ -1,0 +1,12 @@
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.deps.json
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.dll
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\bin\Debug\net8.0\PassIn.Infrastructure.pdb
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.AssemblyInfo.cs
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.dll
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\refint\PassIn.Infrastructure.dll
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.pdb
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\ref\PassIn.Infrastructure.dll
+C:\Users\Rapha\Documents\Workspace\C_Sharp\PassIn\PassIn.Infrastructure\obj\Debug\net8.0\PassIn.Infrastructure.csproj.AssemblyReference.cache
